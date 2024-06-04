@@ -1,1 +1,1 @@
-# Litz
+# .github
